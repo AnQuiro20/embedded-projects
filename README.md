@@ -12,6 +12,7 @@ Ver carpeta: `Arduino/`
 
 ## ESP32 Projects
 
+-Estación meteorológica en una página web
 
 Ver carpeta: `ESP32/`
 
